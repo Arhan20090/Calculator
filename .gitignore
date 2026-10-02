@@ -1,0 +1,8 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore the compiled program executable
+calculator
+
+# Ignore the debugging folder created on Mac
+calculator.dSYM/
